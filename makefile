@@ -1,6 +1,6 @@
 CC=g++
 CFLAGS=-I.
-DEPS = patil-prathamesh.hpp
+DEPS = matOps.hpp
 
 %.o: %.c $(DEPS)
 	$(CC) -c -std=c++11 -o $@ $< $(CFLAGS)

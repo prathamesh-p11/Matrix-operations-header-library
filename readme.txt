@@ -24,7 +24,3 @@ On windows:
 Author:
 Prathamesh Patil
 Email: prathameshp2472@gmail.com
-
-Possible future modifications:
-Strassen's  algorithm to multiply NxN matrices in O(n^2.8)
-Matrix chain multiplication algorithm to efficiently multiply more than 2 matrices.

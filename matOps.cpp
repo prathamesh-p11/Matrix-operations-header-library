@@ -6,7 +6,7 @@
 
 #include <iostream>
 #include <vector>
-#include "patil-prathamesh.hpp"
+#include "matOps.hpp"
 using namespace std;
 using namespace brainMat;
 
